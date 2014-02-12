@@ -30,7 +30,7 @@ return array(
 
 	'groups'		=> "Groups",
 
-	'helloworld'	=> "Never forget.",
+	'helloworld'	=> "poop",
 
 	'description'	=> "Sign up. Log in. Help/About. Exit.",
 
