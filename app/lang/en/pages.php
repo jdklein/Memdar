@@ -30,9 +30,9 @@ return array(
 
 	'groups'		=> "Groups",
 
-	'helloworld'	=> "Hello World!",
+	'helloworld'	=> "Never forget.",
 
-	'description'	=> "This is an example of <a href=\"https://github.com/laravel/laravel\">Laravel 4.1</a> running with <a href=\"https://github.com/cartalyst/sentry\">Sentry 2.0</a> and <a href=\"http://getbootstrap.com/\">Bootstrap 3.0</a>.",
+	'description'	=> "Sign up. Log in. Help/About. Exit.",
 
 	'loginstatus'	=> "You are currently logged in.",
 
